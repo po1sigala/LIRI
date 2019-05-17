@@ -1,0 +1,30 @@
+{
+  "name": "LIRI",
+  "version": "1.0.0",
+  "description": "a node application which uses spotify,bands in town, and OMDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/po1sigala/LIRI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/po1sigala/LIRI/issues"
+  },
+  "homepage": "https://github.com/po1sigala/LIRI#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.3.1",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "spotify": "^0.3.0"
+  },
+  "devDependencies": {}
+}
